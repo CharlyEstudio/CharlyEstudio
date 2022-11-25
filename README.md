@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Charly Ramirez](https://www.facebook.com/JCharlyR)
+### Hi there 👋 I'm [Charly Ramirez](https://charlyestudio.github.io/)
 > Senior React Native Engineer at [Tauros.io](https://tauros.io/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Charly15442?label=follow)
@@ -48,7 +48,7 @@ const charlyRamirez = {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.facebook.com/JCharlyR" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Contact-JCharlyR-blue?style=flat&logo=google-chrome"></a>
+<a href="https://charlyestudio.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Contact-JCharlyR-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/charlyramirez/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@charlyramirez-blue?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/Charly15442" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@charlyramirez-blue?style=flat&logo=twitter"></a>
 <a href="mailto:pingestudio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pingestudio@gmail.com-blue?style=flat&logo=gmail"></a>
