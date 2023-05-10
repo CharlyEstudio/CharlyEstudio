@@ -6,6 +6,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/CharlyEstudio?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=CharlyEstudio.CharlyEstudio)
 
+<a href="https://app.daily.dev/CharlyDev"><img src="https://api.daily.dev/devcards/3c0b9ed5c5b54687b79e837b9a811b1e.png?r=tyg" width="400" alt="Charly Ramirez's Dev Card"/></a>
+
 ### Github Stats
 [![CharlyEstudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlyEstudio)](https://github.com/CharlyEstudio/github-readme-stats)
 
