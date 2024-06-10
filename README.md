@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Charly Ramirez](https://charlyestudio.github.io/)
-> Senior React Native Engineer at [Tauros.io](https://tauros.io/)
+> Senior Software Developer Engineer IV at [GBM+](https://gbm.com/)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Charly15442?label=follow)
 [![Linkedin: charlyramirez](https://img.shields.io/badge/-charlyramirez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlyramirez/)](https://www.linkedin.com/in/charlyramirez/)
