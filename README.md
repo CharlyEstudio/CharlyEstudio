@@ -6,16 +6,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/CharlyEstudio?style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=CharlyEstudio.CharlyEstudio)
 
-<a href="https://app.daily.dev/CharlyDev"><img src="https://api.daily.dev/devcards/3c0b9ed5c5b54687b79e837b9a811b1e.png?r=tyg" width="400" alt="Charly Ramirez's Dev Card"/></a>
-
 ### Github Stats
 [![CharlyEstudio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharlyEstudio)](https://github.com/CharlyEstudio/github-readme-stats)
 
 ### Show More Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharlyEstudio&langs_count=8)](https://github.com/CharlyEstudio/github-readme-stats)
-
-### Wakatime Week Stats
-[![CharlyEstudio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CharlyEstudio)](https://github.com/CharlyEstudio/github-readme-stats)
 
 ### Github Repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CharlyEstudio&repo=React-with-SocketIO&show_owner=true)](https://github.com/CharlyEstudio/React-with-SocketIO)
@@ -55,10 +50,6 @@ const charlyRamirez = {
 <a href="https://twitter.com/Charly15442" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@charlyramirez-blue?style=flat&logo=twitter"></a>
 <a href="mailto:pingestudio@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pingestudio@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-
-### Git Status
-![GitHub last commit](https://img.shields.io/github/last-commit/CharlyEstudio/CharlyEstudio)
-
 
 ⭐️ From [@CharlyEstudio](https://github.com/CharlyEstudio)
 
